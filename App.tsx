@@ -71,6 +71,7 @@ function App(): JSX.Element {
       <ScrollView
         contentInsetAdjustmentBehavior="automatic"
         style={backgroundStyle}>
+        <Text>Nothing  a small change !</Text>
         <Header />
         <View
           style={{
